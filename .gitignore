@@ -17,3 +17,6 @@ wheels/
 
 # Professor's document (local only)
 TP1 SMA- Prompt Engineerin For Multi Agent Systems.ipynb
+
+# Claude context file (local only)
+CLAUDE.md
